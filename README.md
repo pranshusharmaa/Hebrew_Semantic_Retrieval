@@ -5,6 +5,8 @@ This repository contains my solution attempt for a Hebrew semantic retrieval cha
 - I did not have access to the competition dataset.
 - I therefore could not fine-tune any model or evaluate against the official labels.
 
+I’m excited to share that I finished 13th on the private leaderboard (NDCG@20 ≈ 0.605) in the MAFAT Hebrew Semantic Analysis challenge — out of 2,362 submissions 🇮🇱🔍
+
 Instead, I designed a zero-shot retrieval pipeline using:
 
 - A pre-trained multilingual dense encoder: `intfloat/multilingual-e5-base`
