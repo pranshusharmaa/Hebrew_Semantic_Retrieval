@@ -1,6 +1,6 @@
 # Hebrew Semantic Retrieval (Zero-Shot, No Fine-Tuning)
 
-This repository contains my solution attempt for a Hebrew semantic retrieval challenge, built under a strict constraint:
+This repository contains my solution attempt for a MAFAT Hebrew semantic retrieval challenge, built under a strict constraint:
 
 - I did not have access to the competition dataset.
 - I therefore could not fine-tune any model or evaluate against the official labels.
